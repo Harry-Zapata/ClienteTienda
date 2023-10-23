@@ -1,0 +1,6 @@
+.full-width, table {
+    width: 100%;
+}
+mat-grid-tile{
+    padding: 20px 0 ;
+}
